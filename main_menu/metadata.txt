@@ -1,0 +1,15 @@
+Title:	Main Menu
+Author: Prootzel
+TIP*:   ~3h
+
+Key: 	Emin / 9A (Camelot)
+BPM: 	124
+
+Parts (with ideas for usage):
+Start - Oneshot (start on main menu open)
+Main part - Loop (loop after one-shot has played 1 bar, repeat after 32 bars)
+End - Play on button press, cut main part at the same time
+
+*Time in project
+
+Emjoy :3
